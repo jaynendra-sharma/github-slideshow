@@ -1,6 +1,6 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+-------
+layout: slide.....
+title: "Welcome to our second slide!"..................
+---.........0
+Your text..................
+Use the left arrow to go back!0000000000000
